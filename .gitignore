@@ -1,0 +1,61 @@
+# ---------------[ Unity generated ]------------------ #
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+ 
+
+# ----[ Visual Studio / MonoDevelop generated ]------- #
+
+ # Visual Studio cache directory
+.idea/
+.vscode/
+
+ExportedObj/
+
+*.svd
+
+*.userprefs
+
+*.csproj
+
+*.pidb
+
+*.suo
+
+*.sln
+
+*.user
+
+*.unityproj
+
+*.booproj
+
+
+
+# -------------[ OS generated ]------------------------ #
+
+.DS_Store
+
+.DS_Store?
+
+._*
+
+.Spotlight-V100
+
+.Trashes
+
+Icon?
+
+ehthumbs.db
+
+Thumbs.db
+
+# Builds
+*.apk
+*.unitypackage
+
+UserSettings/EditorUserSettings.asset
