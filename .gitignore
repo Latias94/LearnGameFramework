@@ -57,5 +57,6 @@ Thumbs.db
 # Builds
 *.apk
 *.unitypackage
+*.dwlt
 
 UserSettings/EditorUserSettings.asset
